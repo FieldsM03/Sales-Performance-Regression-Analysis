@@ -35,6 +35,7 @@ Advanced regression modeling techniques were applied, and findings were summariz
 - `README.md` — Project documentation.
 
 ## 🚀 Next Steps
-- Extend models with additional predictors or interaction terms.
-- Evaluate alternative modeling techniques.
-- Apply the modeling framework to updated or expanded datasets.
+- Update the underlying CSV files with more recent sales data to evaluate whether model performance and key drivers remain consistent over time.
+- Retrain and revalidate the selected LASSO model using refreshed data to assess stability and robustness.
+- Compare historical model results against updated datasets to identify shifts in sales drivers or market behavior.
+- Incorporate additional external variables, if available, to improve predictive accuracy and relevance.
